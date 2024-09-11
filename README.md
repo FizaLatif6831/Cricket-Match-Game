@@ -1,1 +1,2 @@
-# Cricket-Match-Game
+# Cricket Match Simulator
+This project simulates a cricket match between two teams of seven players each. The simulation uses randomization for toss, player performance, and score generation. The game runs for a configurable number of overs (from a configuration.txt file) and includes functions for score calculation, player dismissal, and scoreboard display. Each batsman and bowler has unique probabilities for scoring and getting out, and the match progresses based on standard cricket rules. The second innings includes the target score and remaining overs to enhance gameplay.
