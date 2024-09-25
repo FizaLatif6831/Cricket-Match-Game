@@ -133,6 +133,7 @@ int main()
     remainingOvers = overs;
     currentPlayerA = 0;
     currentPlayerB = 0;
+    
     while (remainingOvers > 0 && wicketsFallen < 10)
     {
         // Taking input from user
