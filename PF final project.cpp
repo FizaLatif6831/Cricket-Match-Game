@@ -25,7 +25,8 @@ void saveMatchData(Player teamA[], Player teamB[], int overs, string batsmanOfTh
 int main()
 {
     // Initializing variables
-    int overs, runsScored, wicketsFallen, target, remainingScore, remainingOvers;
+    int overs, runsScored, wicketsFallen;
+    int target, remainingScore, remainingOvers;
     string batsmanOfTheMatch, bowlerOfTheMatch;
     Player teamA[7], teamB[7];
     string teamNameA, teamNameB;
