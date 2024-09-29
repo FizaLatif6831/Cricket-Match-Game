@@ -9,10 +9,7 @@ using namespace std;
 struct Player
 {
     string name;
-    int runsScored;
-    int ballsFaced;
-    int ballsBowled;
-    int runsGiven;
+    int runsScored, ballsFaced, ballsBowled, runsGiven;
     int wicketsTaken;
 };
 
